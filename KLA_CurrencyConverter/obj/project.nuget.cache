@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8CTH+WYD4w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ignle\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\ignle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
