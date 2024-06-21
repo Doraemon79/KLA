@@ -22,9 +22,9 @@ If you want to use .NET 9 (Preview) let me know so I can add SearcValues<T> (pro
 
 YOu can see the other 2 algorithms I tried in 
 
-How to start:
-Start the Server side solution: KLA_NumberConverter_ServerSide.sln
-Start the desktop client: CurrencyConverterDesktop.sln
+How to start.
+1.Start the Server side solution: KLA_NumberConverter_ServerSide.sln
+2.Start the desktop client: CurrencyConverterDesktop.sln
 insert the number and convert.
 
 Server's side logic is tested with xUnit.
