@@ -24,6 +24,18 @@ YOu can see the other 2 algorithms I tried in
 
 How to start.
 1.Start the Server side solution: KLA_NumberConverter_ServerSide.sln
+wait till you see console instruction similar to these:
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: https://localhost:7018
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5257
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Repos\KLA\KLA_CurrencyConverter\
+
 2.Start the desktop client: CurrencyConverterDesktop.sln
 insert the number and convert.
 
