@@ -3,7 +3,7 @@ Background:
 I started with a simple intuitive algorithm.
 Then I implemented a recursive algorithm, which should be ok because I do not see risk of complexity explosion.
 Then I tried to do it with Dynamic programming, it was going well but I made the mistake of checking ChatGPT and I found out I was doing similarly to it.
-I did not have time to make a new one so I benchamrked the 3algo and I chose the fastest among those I did without help.
+I did not have time to make a new one so I benchamrked the 3 algos and I chose the fastest among those I did without help.
 With some time my goal was to approach or improve the results of ChatGPT.
 
 
