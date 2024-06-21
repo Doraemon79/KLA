@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Benchmark_Runs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d06dbd5390c025349847c26feb8a42773666aec1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Benchmark_Runs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Benchmark_Runs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

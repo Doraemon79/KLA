@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KLA_NumberConverter_ServerSide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d06dbd5390c025349847c26feb8a42773666aec1")]
 [assembly: System.Reflection.AssemblyProductAttribute("KLA_NumberConverter_ServerSide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KLA_NumberConverter_ServerSide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

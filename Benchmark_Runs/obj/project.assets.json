@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Benchmark_Runs.csproj",
+      "projectUniqueName": "C:\\Repos\\KLA\\Benchmark_Runs\\Benchmark_Runs.csproj",
       "projectName": "Benchmark_Runs",
-      "projectPath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Benchmark_Runs.csproj",
+      "projectPath": "C:\\Repos\\KLA\\Benchmark_Runs\\Benchmark_Runs.csproj",
       "packagesPath": "C:\\Users\\ignle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\obj\\",
+      "outputPath": "C:\\Repos\\KLA\\Benchmark_Runs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

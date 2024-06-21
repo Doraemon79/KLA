@@ -80,7 +80,7 @@ namespace KLA_NumberConverter_ServerSide.Logic
         }
 
         /// <summary>
-        /// Recursive function to Convert number to Words. Covered "billion", "million", "thousand" and "hundred" as per requirements
+        /// Recursive function to Convert number to Words. Covered "million", "thousand" and "hundred" as per requirements
         /// </summary>
         /// <param name="number"></param>
         /// <returns>String representation of provided number</returns>

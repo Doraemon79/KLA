@@ -1,22 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\",
+  "WorkspaceRootPath": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5A065DA-4A74-45F6-8754-3802814B3FCD}|..\\Benchmark_Runs\\Benchmark_Runs.csproj|c:\\users\\ignle\\onedrive\\desktop\\vladimir\\kla_final\\benchmark_runs\\benchmarkmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\BenchmarkMethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5D53C82-23D1-45FA-B8BF-8ABC29B52EF7}|KLA_NumberConverter_ServerSide.csproj|c:\\users\\ignle\\onedrive\\desktop\\vladimir\\kla_final\\kla_currencyconverter\\logic\\convertlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5D53C82-23D1-45FA-B8BF-8ABC29B52EF7}|KLA_NumberConverter_ServerSide.csproj|c:\\repos\\kla\\kla_currencyconverter\\logic\\convertlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5D53C82-23D1-45FA-B8BF-8ABC29B52EF7}|KLA_NumberConverter_ServerSide.csproj|solutionrelative:logic\\convertlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{525D182E-EB2C-42B7-A3B1-E4A053E0E576}|..\\NumberConverter_Tests\\NumberConverter_Tests.csproj|c:\\users\\ignle\\onedrive\\desktop\\vladimir\\kla_final\\numberconverter_tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5A065DA-4A74-45F6-8754-3802814B3FCD}|..\\Benchmark_Runs\\Benchmark_Runs.csproj|c:\\users\\ignle\\onedrive\\desktop\\vladimir\\kla_final\\benchmark_runs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5A065DA-4A74-45F6-8754-3802814B3FCD}|..\\Benchmark_Runs\\Benchmark_Runs.csproj|c:\\repos\\kla\\benchmark_runs\\benchmarkmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECTS\\Ignazio Leotta\\CurrencyConverter\\NumberConverter_Tests\\UnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\NumberConverter_Tests\\UnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,10 +36,10 @@
               "DocumentIndex": 0,
               "Title": "BenchmarkMethods.cs",
               "DocumentMoniker": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\BenchmarkMethods.cs",
-              "RelativeDocumentMoniker": "..\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\BenchmarkMethods.cs",
               "ToolTip": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\BenchmarkMethods.cs",
-              "RelativeToolTip": "..\\Benchmark_Runs\\BenchmarkMethods.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowIwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T22:31:04.999Z",
               "IsPinned": true,
@@ -46,14 +49,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConvertLogic.cs",
-              "DocumentMoniker": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\Logic\\ConvertLogic.cs",
+              "DocumentMoniker": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\Logic\\ConvertLogic.cs",
               "RelativeDocumentMoniker": "Logic\\ConvertLogic.cs",
-              "ToolTip": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\Logic\\ConvertLogic.cs",
+              "ToolTip": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\Logic\\ConvertLogic.cs",
               "RelativeToolTip": "Logic\\ConvertLogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T19:50:46.339Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenchmarkMethods.cs",
+              "DocumentMoniker": "C:\\Repos\\KLA\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "RelativeDocumentMoniker": "..\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "ToolTip": "C:\\Repos\\KLA\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "RelativeToolTip": "..\\Benchmark_Runs\\BenchmarkMethods.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAgwJAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:51:47.018Z",
               "EditorCaption": ""
             },
             {
@@ -78,33 +94,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Benchmark_Runs\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Program.cs",
               "ToolTip": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Program.cs",
-              "RelativeToolTip": "..\\Benchmark_Runs\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\Benchmark_Runs\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAkwBEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:28:55.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T22:28:55.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UnitTest.cs",
               "DocumentMoniker": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\NumberConverter_Tests\\UnitTest.cs",
-              "RelativeDocumentMoniker": "..\\NumberConverter_Tests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\NumberConverter_Tests\\UnitTest.cs",
               "ToolTip": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\NumberConverter_Tests\\UnitTest.cs",
-              "RelativeToolTip": "..\\NumberConverter_Tests\\UnitTest.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\NumberConverter_Tests\\UnitTest.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAMwBYAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T22:07:46.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T22:07:46.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UnitTest.cs",
               "DocumentMoniker": "D:\\PROJECTS\\Ignazio Leotta\\CurrencyConverter\\NumberConverter_Tests\\UnitTest.cs",
               "ToolTip": "D:\\PROJECTS\\Ignazio Leotta\\CurrencyConverter\\NumberConverter_Tests\\UnitTest.cs",

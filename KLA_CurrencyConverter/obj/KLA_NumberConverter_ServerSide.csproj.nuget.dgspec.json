@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj": {}
+    "C:\\Repos\\KLA\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj": {
+    "C:\\Repos\\KLA\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj",
+        "projectUniqueName": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj",
         "projectName": "KLA_NumberConverter_ServerSide",
-        "projectPath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj",
+        "projectPath": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\KLA_NumberConverter_ServerSide.csproj",
         "packagesPath": "C:\\Users\\ignle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignle\\OneDrive\\Desktop\\Vladimir\\KLA_Final\\KLA_CurrencyConverter\\obj\\",
+        "outputPath": "C:\\Repos\\KLA\\KLA_CurrencyConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
